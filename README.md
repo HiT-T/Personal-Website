@@ -5,7 +5,7 @@
   This is my personal website inspired by <a href="https://v4.brittanychiang.com" target="_blank">v4.brittanychiang.com</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-![Personal Website Screeshot](https://github.com/HiT-T/Personal-Website/blob/main/external%20resouces/images/Personal%20Website%20Screenshot.png)
+![Personal Website Screeshot](https://github.com/HiT-T/Personal-Website/blob/main/Personal%20Website%20Screenshot.png)
 
 ## Attribution
 
