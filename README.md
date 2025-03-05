@@ -2,7 +2,7 @@
   <a href="https://hit-t.com/" target="_blank">hit-t.com</a>
 </h1>
 <p align="center">
-  Yuhan Li's personal website inspired by <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Yuhan Li's personal website inspired by <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
 
 ![Screenshot](https://github.com/HiT-T/Personal-Website/blob/main/external_resources/Screenshot.png)
