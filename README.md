@@ -5,7 +5,7 @@
   Yuhan Li's personal website built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
 
-![demo](https://github.com/HiT-T/Personal-Website/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-22%20141210.png)
+![demo](https://github.com/HiT-T/Personal-Website/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-05-05%20181843.png)
 
 ## Acknowledgement
 
